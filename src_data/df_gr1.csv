@@ -1,0 +1,908 @@
+group_name,attr_name,unique
+0,Albumin,['Nil']
+0,Amor. Phos,['Nil']
+0,Amor. Urates,['Nil']
+0,Bacteria,['Nil']
+0,Bilirubin,['Nil']
+0,Blood,['Nil']
+0,Blood Bag No :,['Nil']
+0,Cal. Oxalate,['Nil']
+0,Candida,['Nil']
+0,Casts,['Nil' 'NIl']
+0,Cellular,['Nil']
+0,Corresponding Urine Suger,['Nil']
+0,Corresponding urine sugar,['Nil' 'NIl' 'Nil.']
+0,Corresponding urine sugar 1h 75gm,['Nil']
+0,Cystine crystal,['Nil']
+0,Dead Sperm,['Nil']
+0,Default,['Nil']
+0,Epithelial,['Nil']
+0,Epithelial Cells,['Nil']
+0,Epithelial cells,['Nil']
+0,Ex. Phosphate,['Nil']
+0,Fat Globules,['Nil']
+0,Fungus,['Nil']
+0,Gastric lavage for Biochemistry,['Nil' 'NIl' 'nil']
+0,Granular,['Nil']
+0,Hyaline,['Nil']
+0,Ketones body,['Nil']
+0,Leukocyte Esterase,['Nil']
+0,Macrophage,['Nil']
+0,Mucus,['Nil']
+0,Muscle Fibres,['Nil']
+0,Nitrate,['Nil']
+0,Protein,['Nil']
+0,Pus Cell,['Nil']
+0,Pus Cells,['Nil']
+0,Pus cells,['Nil' 'NIl']
+0,R B C,['Nil']
+0,RBC,['Nil']
+0,RBC :,['Nil']
+0,Reaction(PH),['Nil']
+0,Reducing Substance,['Nil']
+0,Sedimen :,['Nil']
+0,Sediment,['Nil']
+0,Sp. Gravity,['Nil']
+0,Spermatozoa,['Nil']
+0,Starch,['Nil']
+0,Stool R/S,['Nil']
+0,Sugar,['Nil']
+0,Total count Of WBC :,['Nil /cmm']
+0,Trichomonas Vaginalis,['Nil']
+0,Triple Phos,['Nil']
+0,Urates,['Nil']
+0,Uric Acid,['Nil']
+0,Urine for sugar,['Nil']
+0,Urobilinogen,['Nil']
+0,Vegetable Cells,['Nil']
+0,W B C,['Nil']
+0,WBC :,['Nil']
+0,Yeast,['Nil']
+0,Yeasts,['Nil']
+1,#,['Spermatozoa- Present']
+1,*Polymyxin B,['SI']
+1,1. HBsAg,['Nagetive']
+1,2.  Anti HCV,['Postive']
+1,2. Anti HCV,['Nagetive']
+1,3. HIV I & II,['Nagetive']
+1,4. Syphilis (VDRL),['Non Reactivetive']
+1,5. Malarial Parasite (ICT),['Nagetive']
+1,AFB,"['Specimen contain mostly saliva and is not suitable for microbiological evaluation.\n\nPlease repeat with appropriate specimen.'
+ 'Specimen contain mostly saliva and is not suitable for microbiological evaluation.\nPlease repeat with appropriate specimen.'
+ 'Specimen contain mostly saliva and is not suitable for microbiological evaluation.']"
+1,Albumin,['(++)' '(+)' 'Trace' '(+++)']
+1,Amor. Phos,['(+)']
+1,Amor. Urates,['Not Done' 'Few' '(+)']
+1,Amoxyclave,['M']
+1,Appearance,['Turbid' 'Hazy']
+1,Appearance :,['Hazy' 'Hazzy' 'Turbid']
+1,Appearance/Color,['Greyish White']
+1,B.J. Protein,['Not Done']
+1,BAL for fungul (GMS) stain,['No fungal element identified.']
+1,Bacteria,['(+)']
+1,Bile Pigment,['Not Done']
+1,Bile Salt,['Not Done']
+1,Bilirubin,['(+)' '+' 'Not Done']
+1,Blood,['(++)' '(+)' '(+++)' '+++' 'Trace' '+' '++']
+1,Blood Bag No :,['(+)' '(+++)' '(++)' 'Trace']
+1,Blood Component :,"['PRBC' 'Whole Blood' 'Whole blood' 'CCP' 'FFP' 'Platelet Apheresis'
+ 'Platelet Concentrate' 'Washed PRBC' 'Packed cell' 'RCC'
+ 'Fresh Frozen Plasma' 'Fresh Plasma' 'whole Blood' 'Platelet  Apheresis']"
+1,Blood Group :,"['""O""' '""A""' '""AB""' '""B""' 'O' 'B' ""''B''"" ""''O''"" ""''A''"" ""''AB''"" 'AB'
+ '\'\'A""' '""B"":']"
+1,Blood Group: ABO,"['""O""' '""AB""' '""B""' '""A""' '""O""`' '""A""`']"
+1,Blood glucose 2hrs ABF,['(+)']
+1,Blood glucose level,['(+++)']
+1,Budding yeast,['(+)' 'a few' '(++)' 'A few']
+1,CFT-Filaria,['Moderately Positive' 'Moderately positive']
+1,Cal. Oxalate,['(+)' 'A few' '(++)' 'Few' 'Plenty']
+1,Candida,['A few' '(+)']
+1,Cellular,['a few' '(+)' 'Few']
+1,Color,"['Brown' 'Yellowish' 'Greenish' 'Yellow' 'Whitish' 'Redish' 'Blackish'
+ 'Reddish' 'Whitiesh']"
+1,Colour,"['Turbid' 'L YELLOW' 'YELLOW' 'Orange' 'Reddish' 'Yellow' 'Amber'
+ 'Dark Brown' 'Yellowish' 'RED' 'AMBER' 'Cloudy' 'Deep starw' 'Watery'
+ 'Whitish']"
+1,Colour :,['Reddish' 'Yellow']
+1,Comment,"['Non specific morphology.'
+ 'Moderate microcytic hypochromic anaemia with mild neutrophilia.'
+ 'Compatible with anaemia of chronic disease.' 'Non specific findings.'
+ 'Neutrophil leucocytosis.' 'Mild neutrophilia.' 'Normal blood film.'
+ 'Mild erythrocytosis.' 'Thrombocytopenia.' 'Mild thrombocytopenia.'
+ 'Microcytic hypochromic anaemia.' 'Leucocytosis.'
+ 'Microcytic hypochromic anaemia, moderate with leucocytosis.'
+ 'Microcytosis.' 'Moderate degree of normochromic normocytic anaemia.'
+ 'Bicytopenia.' 'Microcytic blood picture.'
+ 'Microcytic blood picture with neutrophil leucocytosis.'
+ 'Mild normocytic normochromic anaemia.' 'Normocytic anaemia.'
+ 'Hypochromic microcytic anaemia.'
+ 'Hypochromic microcytic anaemia, suggestive of iron deficiency anaemia.'
+ 'Microcytic hypochromic anaemia, moderate.'
+ 'Suggestive of recent viral infection.'
+ 'Hypochromic microcytic anaemia with neutrophil leucocytosis.'
+ 'Moderate microcytic hypochromic anaemia.' 'Combined deficiency anaemia.'
+ 'Eosinophilia.' 'Features are consistent with recent viral infection.'
+ 'Microcytic hypochromic anaemia, mild.'
+ 'Normocytic anaemia with neutrophilic leucocytosis.'
+ 'Normocytic normochromic anaemia.'
+ 'Dimorphic anaemia with neutrophil leucocytosis.' 'Neutrophilia.'
+ 'Compatible with polycythemia with neutrophil leucocytosis with thrombocytosis.'
+ 'Marked neutrophil leucocytosis with shift to left and erythrocytosis.'
+ 'Neutrophil leucocytosis, Mild.' 'Mild microcytic hypochromic anaemia.'
+ 'Microcytic hypochromic anemia, moderate.'
+ 'Normocytic normochromic anaemia, mild.'
+ 'Features are suggetive of microangiopathic hemolytic anemia with thrombocytopenia.'
+ 'Mild eosinophilia.'
+ 'Hypochromic microcytic anaemia with thrombocytosis.'
+ 'Compatible with anaemia of chronic disease with neutrophil leucocytosis.'
+ 'Normocytic normochromic anaemia, moderate.'
+ 'Microcytic hypochromic anaemia, mild.\nAdvice: Serum iron profile and Ferritin.'
+ 'Normochromic normocytic anaemia, mild.'
+ 'Mild normochromic normocytic anaemia with neutrophil leucocytosis.\nAdvice: Correlate clinically. Serum ferritin.'
+ 'Moderate microcytic hypochromic anaemia.\nAdvice: Serum ferritin and folate assay.'
+ 'Compatible with anaemia of chronic disease.\nAdvie: Serum ferritin.'
+ 'Compatible with anaemia of chronic disease and thrombocytopenia. \nAdvice: Serum ferritin.'
+ 'Non specific morphology'
+ 'Features are consistent with cold haemagglutinin disease with thrombocytopenia.'
+ 'Normochromic normocytic anaemia, severe with thrombocytopenia.'
+ 'Mild microcytosis.' 'Thrombocytosis.'
+ 'Severe microcytic hypochromic anaemia.'
+ 'Microcytic blood picture with eosinophilia.' 'Non specific findins.'
+ 'Mild neutrophil leucocytosis.'
+ 'Mild normocytic normochromic anaemia with neutrophil leucocytosis.'
+ 'Compatible with anaemia of chronic disease.\n\nAdvice: Serum ferritin'
+ 'Hypochromic microcytic anaemia with neutrophilic leucocytosis.'
+ 'Hypochromic microcytic anaemia suggestive of iron deficiency anaemia.'
+ 'Hypochromic microcytic anaemia with eosinophilia, suggestive of iron deficiency anaemia.'
+ 'Mild dimorphic anaemia with thrombocytosis.'
+ 'Compatible with anaemia of chronic disease with thrombocytopenia.'
+ 'Neutropenia.'
+ 'Mild normocytic normochromic anaemia with mild neutrophilia.'
+ 'Non specific  findings.' 'Leucopenia.'
+ 'Mild normochromic normocytic anaemia.'
+ 'Moderate normocytic normochromic anaemia.' 'Mild leucocytosis.'
+ 'See description please.' 'Mild monocytosis.'
+ 'Relative lymphocytosis and thrombocytopenia.'
+ 'Moderate combined deficiency anaemia.'
+ 'Microcytosis.\nAdvice : Correlate clinically.\n            Serum Ferritin'
+ 'Macrocytic anaemia.'
+ 'Moderate normocytic normochromic anaemia with neutrophil leucocytosis.'
+ 'Mild dimorphic anaemia with neutrophilia,'
+ 'Mild microcytic hypochromic anaemia with neutrophil leucocytosis.'
+ 'Neutrophil leucocytosis, mild.'
+ 'Mocrocytic hypochromic anaemia, moderate with thrombocytosis.'
+ 'Compatible with anaemia of chronic disease with neutrophil leucocytosis, mild.'
+ 'Marked neutrophil leucocytosis with mild shift to left.'
+ 'Mild microcytic hypochromic anaemia with neutrophilia.'
+ 'Combined deficiency anaemia with neutrophil leucocytosis.'
+ 'Dimorphic anaemia.'
+ 'Dimorphic anaemia with teardrop poikilocytosis and neutrophil leucocytosis.'
+ 'Normocytic anaemia with thrombocytopenia.'
+ 'Mild microcytic blood picture.' 'Mild leucopenia.'
+ 'Mild normochromic normocytic anaemia with mild neutrophillia.'
+ 'Dimorphic anaemia with thrombocytosis.'
+ 'Moderate microcytic hypochromic anaemia with mild lymphocytosis and thrombocytosis features are suggestive of hereditary hemolytic anaemia.'
+ 'Dimorphic anaemia with neutrophil leucocytosis and thrombocytopenia.'
+ 'Normocytic anaemia with neutrophil leucocytosis & Thrombocytosis.'
+ 'Normocytic normochromic anaemia with neutrophil leucocytosis.'
+ 'Microcytic hypochromic anaemia, Mild.'
+ 'Mild normocytic normochromic anaemia with thrombocytopenia.'
+ 'Mild relative lymphocytosis.'
+ 'Suggestive of acute lymphoblastic leukaemia.'
+ 'Macrocytic anaemia with thrombocytopenia.'
+ 'Microcytic hypochromic anaemia,severe.'
+ 'Normocytic normochromic anaemia with eosinophilia.'
+ 'Mild normocytic normochromic anaemia with relative lymphocytosis.'
+ 'Mild normocytic normochromic anaemia with neutrophilia.'
+ 'Normocytic normochromic anaemia with leucocytosis, mild.'
+ 'Neutrophil leucocytosis.\nNormocytic normochromic anaemia.'
+ 'Normocytic normochromic anaemia with neutrophil leucocytosis, mild with thrombocytopenia.'
+ 'Leucocytosis and eosinophilia.'
+ 'Normocytic normochromic anaemia with neutrophil leucocytosis, mild.'
+ 'Normocytic anaemia with features of active infection.'
+ 'Hypochromic microcytic anaemia with thrombocytopenia.'
+ 'Compatible septicemia with normocytic normochromic anaemia, moderate.'
+ 'Mild microcytic hypochromic anaemia.\n\nAdvice: Correlate clinically and serum ferritin.'
+ 'Compatible with anaemia of chronic disease.   Advice : Serum ferritin.'
+ 'Microcytic hypochromic anaemia with leucocytosis, mild.\nAdvice: Iron profile.'
+ 'Moderate normocytic normochromic anaemia with relative lymphocytosis.'
+ 'Normochromic normocytic anaemia, moderate.'
+ 'Leucopenia with thrombocytopenia.'
+ 'Normocytic normochromic anaemia. \nNeutrophil leucocytosis.'
+ 'Mild leucocytosis and microcytosis.'
+ 'Moderate microcytic hypochromic anaemia with neutrophil leucocytosis & thrombocytosis.'
+ 'Leucoerythroblastic blood picture with thrombocytopenia.'
+ 'Neutrophil leucocytosis with eosinophilia.'
+ 'Normocytic anaemia with significant dysplasia.'
+ 'Normocytic anaemia with increase rouleaux suggestive of anaemia of chronic disease.'
+ 'Mild dimorphic anaemia with neutrophilia and thrombocytopenia.'
+ 'Features are consistent with septicaemia.'
+ 'Normocytic anaemia with neutrophil leucocytosis and thrombocytopenia.'
+ 'Compatible with anaemia of chronic disease with relative lymphocytosis.'
+ 'Neutrophil leucocytosis,mild'
+ 'Moderate dimorphic anaemia with neutrophilia with thrombocytosis.'
+ 'compatible with anaemia of chronic disease.'
+ 'Mild microcytic hypochromic anaemia' 'Pancytopenia.' 'Dimorphic anaemia'
+ 'Microcytic hypochromic anaemia, severe.'
+ 'Mild combined deficiency anaemia.' 'Combined deficiency anemia.'
+ 'Moderate microcytic hypochromic anaemia with neutrophil leucocytosis and thrombocytosis.'
+ 'Hypochromic microcytic anaemia, suggestive of hereditary hemolytic anaemia.'
+ 'Moderate microcytic hypochromic anaemia.   Advice: Serum ferritin and HB electrophoresis.'
+ 'Compatible with anaemia of chronic disease.\nAdvice: S. ferritin.'
+ 'Moderate microcytic hypochromic anaemia.\n\nAdvice: Serum ferritin and reticulocyte count.'
+ 'Normocytic normochromic anaemia.\nLeucopenia.'
+ 'Moderate haemolytic anaemia with neutrophilia and thrombocytopenia.\nAdvice: Reticulocyte count and Hb electrophoresis.'
+ 'Compatible with anaemia of chronic disease.\nAdvice: Serum ferritin.'
+ 'Neutrophilic leucocytosis.' 'Acute Leukaemia.'
+ 'Features are consistent with microangiopathic hemolytic anaemia with active infection.'
+ 'Normocytic anaemia, suggestive of anaemia of chronic disease.'
+ 'Relative lymphocytosis.'
+ 'Normocytic anaemia with neutrophil leucocytosis.'
+ 'Leucopenia with some reactive lymphocytes.' 'Mild macrocytic anaemia.'
+ 'Microcytic hypochromic anaemia with eosinophilia, mild.'
+ 'Dimorphic anaemia with neutrophilia and thrombocytopenia.'
+ 'Neutrophil leucocytosis and normocytic normochromic anaemia.'
+ 'Dimorphic anaemia with thrombocytopenia.' 'Lymphocytosis, mild.'
+ 'Mild leucopenia with normocytic normochromic anaemia, moderate.'
+ 'Mild microcytic hypochromic anaemia with thrombocytosis.'
+ 'Mild normocytic normochromic anaemia with mild leucocytosis.'
+ 'Mild normochromic normocytic anaemia with neutrophil leucocytosis.'
+ 'Lymphocytosis.' 'Moderate dimorphic anaemia.'
+ 'Thrombocytopenia with some reactive lymphocytes.'
+ 'Normocytic anaemia with neutrophil leucocytosis having features of active infection.'
+ 'Compatible with anaemia of chronic disease with pancytopenia.'
+ 'Thrombocytopenia with normocytic normochromic  anaemia, mild.'
+ 'Mild leucocytosis with thrombocytosis.'
+ 'Leucocytosis with lymphocytosis.'
+ 'Normocytic anaemia with increase rouleaux.\nSuggestive of anaemia of chronic disease.'
+ 'Mild neutrophillia.' 'Normocytic anaemia with eosinophilia.'
+ 'Hypochromic microcytic anaemia with thrombocytosis.\nSuggestive of iron deficiency anaemia.'
+ 'Moderate dimorphic anaemia with neutrophilia & thrombocytopenia.'
+ 'Neutrophilic leucocytosis with thrombocytopenia.'
+ 'Dimorphic anaemia suggestive of immune hemolytic anemia.'
+ 'Moderate normocytic normochromic anaemia with mild leucocytosis.'
+ 'Severe microcytic hypochromic anaemia.\n\nAdvice: Serum ferritin and Hb electrophoresis.'
+ 'Mild microcytic hypochromic anaemia with mild eosinophilia.'
+ 'Suggestive of microangiopathic hemolytic anemia with thrombocytopenia.'
+ 'Microcytic hypochromic anaemia with marked neutrophil leucocytosis and shift to left.(leukemoid reaction)'
+ 'Anaemia of chronic disease.'
+ 'Moderate combined deficiency anaemia with neutrophil leucocytosis.'
+ 'Hypochromic microcytic anaemia. Suggestive of iron deficiency anaemia.'
+ 'Moderate dimorphic anaemia with neutrophil leucocytosis.'
+ 'Mild normocytic normochromic anaemia with mild neutrophillia.'
+ 'Normocytic anemia with neutrophil leucocytosis.'
+ 'Severe dimorphic anaemia with neutrophilia.'
+ 'Features are consistent with cold haemagglutinin disease and thrombocytopenia.'
+ 'Severe hemolytic anaemia with neutrophilia.'
+ 'Reactive lymphocytes seen.' 'Leucopenia with lymphocytosis.'
+ 'Combined deficiency anaemia.\nEosinophilia.'
+ 'Hypochromic microcytic anaemia with neutrophil leucocytosis and thrombocytosis.'
+ 'Lymphopenia.' 'Marked neutrophil leucocytosis with shift to left.'
+ 'Normal blood film'
+ 'Normocytic anaemia with increased rouleaux, suggestive of anaemia if chronic disease.'
+ 'Hypochromic microcytic anaemia suggestive of hereditary haemolytic anaemia.'
+ 'Moderate combined deficiency anaemia with mild leucocytosis.'
+ 'Mild combined deficiency anaemia with thrombocytopenia.'
+ 'Severe combined deficiency anaemia with neutrophil leucocytosis.']"
+1,Consistency,"['Semi liquid' 'Liquid' 'Soft' 'Semi-Solid' 'Semi-Liquid' 'Loose'
+ 'Semi Liquid' 'Semi-liquid' 'Watery' 'Solid' 'Water' 'Semi solid']"
+1,Corresponding Urine Suger,['(+++)' '(++)' '(+)' 'N/s' 'Trace']
+1,Corresponding urine sugar,['(++)' '(+++)' '(+)' 'Trace' '(++++)' 'M/S' 'N/s']
+1,Corresponding urine sugar 1h 75gm,['Trace' '(+)' '(++)' 'N.S']
+1,Cross Match with donor,"['Compatible' 'Incompatible' 'InCompatible(Minor)' 'Compitable'
+ 'compatible' 'Comaptible' 'InCompatible']"
+1,Cross Match with donor :,['Compatible' 'Incompatible']
+1,Cyst,['(+)' 'E. coli (+)']
+1,Default,"['Few Gram positive cocci seen.' 'No microorganism seen.'
+ 'Few Gram negative bacilli seen.'
+ 'Moderate number of Gram negative bacilli seen.'
+ 'Few Gram positive cocci and Gram negative bacilli seen.'
+ 'Moderate number of Gram positive cocci and Gram negative bacilli seen.\nBudding yeast (++).'
+ '(+)' 'Profuse Gram negative bacilli seen.'
+ 'Moderate number of Gram positive cocci seen.\nBudding yeast (+).'
+ 'Moderate number of Gram positive cocci and Gram negative bacilli seen.\nBudding yeast  with pseudohyphae (+).'
+ 'Few Gram positive cocci seen.\nBudding yeast with pseudohyphae-(++).'
+ 'Budding yeast (++)' 'Budding yeast (+++).'
+ 'Moderate number of  Gram negative bacilli seen.']"
+1,Donor  information :,"['stock' 'Out Blood (QUANTUM)' 'Stock W/B' 'Out Side Blood' 'Out Blood'
+ 'Same Donor']"
+1,Donor information :,['Stock CCP' 'stock' 'STOCK W/B' 'Srock']
+1,Ent. coli,['(+)' 'Few']
+1,Ent. histolytica,['(+)' 'Few' '(++)']
+1,Eosinophil,['Present a few']
+1,Epithelial Cells,['Plenty' '(+)' 'Few' 'Few (Mature)']
+1,Epithelial cell,['(+)' 'Plenty' 'Few' '(++)']
+1,Epithelial cells,['(+)' '(++)']
+1,Fat Globules,['(++)' 'Few' '(+)' '(+++)' 'A Few']
+1,Fungus,['----']
+1,Fungus (GMS) Stain,['No fungal element is identified.' 'No fungal elements identified.']
+1,Gastric lavage for Biochemistry,['(+)' '(++)' 'Trace' '(+++)' 'N/s' '(++++)']
+1,Gender,['Male' 'Female' 'M']
+1,Gender :,['Male' 'Female' 'male' 'M' 'MAle' 'F' 'M/F']
+1,Gram Negative Bacilli,['(+)' 'Few']
+1,Gram Positive Cocci,['(++)' 'a few' 'Few' 'A few' '(+)' 'No microorganism seen.' 'Occasional']
+1,Gram Positive cocci,['(++) arranged in short chain and clusters']
+1,Gram Stain,"['No microorganism seen.' 'Few Gram negative bacilli seen.'
+ 'Moderate number of Gram negative bacilli seen.' 'Budding yeast (+).'
+ 'No bacteria' 'Few Gram positive cocci seen.' 'No microorganism seen'
+ 'Budding yeast with pseudohyphae (++).'
+ 'Few Gram positive cocci and Gram negative bacilli seen.'
+ 'Budding yeast (++).' 'Moderate number of Gram positive cocci seen.'
+ 'Few Gram positive cocci seen. \nBudding yeast (+).'
+ 'Few Gram negative bacilli seen.\nBudding yeast with pseudohyphae (++).'
+ 'No Gram reactgive organism seen.' '(+)'
+ 'Moderate number of Gram positive cocci & few Gram negative bacilli seen.'
+ 'Profuse Gram negative bacilli seen.\nBudding yeast (+++).'
+ 'Few Gram negative bacilli seen. \nBudding yeast -(+++)']"
+1,Gram negative extracellur diplococci,['Occasional']
+1,Gram stain,"['Few Gram negative bacilli seen.\nBudding yeast with pseudohyphae (++).'
+ 'Few Gram positive cocci seen.' 'No microorganism seen.'
+ 'Moderate number of Gram negative bacilli seen and Gram positive cocci seen.'
+ 'Moderate number of Gram positive cocci seen.'
+ 'Few Gram positive cocci and Gram negative bacilli seen.'
+ 'Few Gram negative bacilli seen.'
+ 'Moderate number of Gram positive cocci & few Gram negative bacilli seen.'
+ 'Moderate number of Gram negative bacilli seen.'
+ 'No Gram negative diplococci seen.'
+ 'Moderate number of Gram positive cocci and Gram negative bacilli seen.'
+ 'Few Gram negative bacilli seen.\nBudding yeast with pseudohyphae (+++).'
+ 'Moderate number of Gram positive cocci and few Gram negative bacilli seen.'
+ 'Budding yeast (+).'
+ 'Moderate number of Gram negative bacilli and Gram positive cocci seen.'
+ 'Few Gram negative bacilli seen.\nBudding yeast (+).'
+ 'Few Gram postive cocci seen.'
+ 'Moderate number of Gram positive cocci seen.\nBudding yeast (+).'
+ 'Budding yeast (+)'
+ 'Few Gram positive cocci seen.\nBudding yeast with pseudohyphae (+).']"
+1,Granular,['(+)' 'Occasional' '(++)' 'Few' 'A few' 'A Few']
+1,HVS for Gram stain,['Budding yeast (++)']
+1,Herpes Simplex Virus (I) IgM,['Negetive']
+1,Herpes Simplex Virus (II) IgM,['Negetive']
+1,Hyaline,['Few' '(+)' '(++)']
+1,Ketone Bodies,['(++)']
+1,Ketones,['Not Done']
+1,Ketones body,['Present' '(+)' '(+++)' 'Present (++)' '(++)' 'Not Done' 'Present (+)']
+1,LDL Cholesterol,['**' '--' '-' '***' '---' '..' '*']
+1,Leukocyte Esterase,['(+++)' 'Ansent' '++' '+' '+++' '(+)' 'Not Done']
+1,M.P.V,['----' '-----' '---' '--' '-' '------']
+1,Macrophage,['(+)' 'Few' '(++)' 'A Few']
+1,Malarial Parasite,['Normal blood film.']
+1,Marrital Status,['Married']
+1,Mature looking lymphocytes,['\\']
+1,Method of collection,['Masturbation' 'Coitus Interruptus' 'Coitus']
+1,Mucus,['(+)' 'Trace' '(++)' 'Scanty']
+1,Muscle Fibres,['(+)' 'Few' '(++)']
+1,Nitrate,['(+)' '+' 'Not Done']
+1,Odor,['Offensive']
+1,On observation,['Induration present']
+1,Opinion,"['Mild teratozoospermia' 'Normozoospermia' 'Mild teratoasthenozoospermia'
+ 'Oligozoospermia' 'Oligoasthenozoospermia with inflammation.'
+ 'Teratoasthenopyospermia' 'Oligoterato-asthenozoospermia' 'Pyospermia'
+ 'Normospermia' 'Teratozoospermia' 'Oligoospermia.']"
+1,PROTOZOA,['VEG']
+1,Patient's Blood Grouping Report:,['Bag']
+1,Physical examination :,['Watery']
+1,Platelets,"['Adequate.' 'Normal in count and morphology.' 'Decreased in number.'
+ 'Normal count and morphology.' 'Reduced.' 'Lower limit normal.'
+ 'Normal in count and morpholgy.' 'normal in count and morphology.'
+ 'Increased.' 'Lower limit normal in count.' 'Increase in number.'
+ 'Decrease in number.' 'Marginal.' 'Normal in count and distribution.'
+ 'Adequate' 'Decreased.' 'Normal in number and arranged in clusters.'
+ 'Increased in number.' 'Increase.'
+ 'Decreased in number with anisocytosis.'
+ 'Increased in number with anisocytosis.' 'Normal in count and mophology.'
+ 'Moderately increaed in number.' 'Grossly reduced.' 'Decreased in number'
+ 'Normal in number and morphology.' 'Reduce.' 'Scanty.' 'Marginal'
+ 'Adequate with variable in size and shape.' 'Mormal.' 'Reduced'
+ 'Marginally reduced.' 'Normal in number with anisocytosis.'
+ 'Borderline normal in count.'
+ 'Markedly increase in number with anisocytosis.']"
+1,Protein,['(+)' '(++)' 'Trace' '(+++)' '+' '(++++)' '++++' '++' 'Not Done' '+++']
+1,Pus Cell,['Plenty' '(+)' '(++)' 'A Few']
+1,Pus Cells,['Plenty' 'Pleny']
+1,Pus cell,['Plenty']
+1,Pus cells,['(++)' '(+++)' 'No microorganism seen.' 'Occasional' '(+)' 'Few']
+1,Pus for Gram stain,"['Moderate number of Gram positive cocci seen.' 'Moderate'
+ 'Few Gram positive cocci seen.'
+ 'Few Gram positive cocci and Gram negative bacilli seen.']"
+1,Quantity,['Adiquate' 'Adequate']
+1,R B C,['Plenty' 'Occational' 'Occasional']
+1,R.D.W.-C.V.,['----' '--' '---']
+1,R.D.W.-S.D.,['----']
+1,RBC,"['Normocytic normochromic.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC & few elongated cells with rouleaux.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, \nfew pencil form, target cells with rouleaux.'
+ 'Anisochromia with anisocytosis.'
+ 'Normocytic normochromic with fair number of target cells.' 'Occasional'
+ 'Anisochromic anisocytosis with rouleaux.'
+ 'Normocytic normochromic with increased erythrocytes distribution.'
+ 'Anisochromic anisocytosis.' 'Plenty'
+ 'Hypochromic microcytic with few target cells and elongated cells.'
+ 'Anisocytic anisochromic.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, \nfew pencil form, some target cells.'
+ 'Anisochromia with anisocytosis and many target cells and elongated cells.'
+ 'Normocytic normochromic red cells with few fragmented cells are noted.'
+ 'Normocytic normochromic mild rouleaux.' 'Microcytic normochromic.'
+ 'Normocytic normochromic with mild rouleaux.'
+ 'Anisopoikilocytosis with some microcytes and few target cells with rouleaux.'
+ 'Normocytic normochromic with rouleaux.'
+ 'Anisocytic anisochromic with rouleaux.'
+ 'Normocytic normochromic with increased rouleaux.'
+ 'Anisochromic with microcytosis.' 'Hypochromic microcytic.'
+ 'Microcytic hypochromic with few elongated cell.'
+ 'Anisochromic with microcytosis and some target cells.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form and target cells with rouleaux.'
+ 'Hypochromic microcytic with fair number of elongated cell.'
+ 'Anisocytic anisochromic with few microcytes and rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, few target cells also seen with rouleaux.'
+ 'Dimorphic blood picture.'
+ 'Anisochromic anisocytosis with some microcytes with rouleaux.'
+ 'Mild anisopoikilocytosis microcytic hypochromic red cells, few pencil form, tear drop cells and target cells.'
+ 'Normocytic normochromic with some target cell.'
+ 'Anisochromic anisocytosis including microcytic normocytic.'
+ 'Microcytic and hyppochromic cells, Few target cells.'
+ 'Moderate anisopoikilocytosis, hypochromic microcytic red cells, few pencil form, target cells.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form, target cells'
+ 'Anisochromic anisocytosis including normocyte and schistocyte.'
+ 'Moderate anisopoikilocytosis, hypochromic microcytic red cells, few pencil form with rouleaux.'
+ 'Anisochromic anisocytosis with mild rouleaux.'
+ 'Hypochromic microcytic with few elongated cell.'
+ 'Anisochromic anisocytosis with few target cells with rouleaux.'
+ 'Normocytic normochromic with plenty target cell.'
+ 'Microcytic hypochromic with fair number of elongated cell.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, few target cells, tear drop cells, occasional fragmented cells also seen.'
+ 'Normocytic normochromic with marked rouleaux.'
+ 'Normochromic normocytic with marked rouleaux.'
+ 'Anisochromic anisocytosis with marked agglutination and fair number of nRBC.'
+ 'Normochromic normocytic with rouleaux.'
+ 'Anisochromic anisocytosis with few microcytes.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some target cells, elongated cells, occasional polychromatic cells also seen with rouleaux.'
+ 'Microcytic hypochromic RBC, some target cells with mild rouleaux.'
+ 'Hypochromic microcytic with a fair number of target cell.'
+ 'Anisochromia with microcytosis.'
+ 'Anisopoikilocytosis with some microcytes, thick target cells, few elongated cells and occasional macrocytes also seen.'
+ 'Normochromic normocytic with increase rouleaux.'
+ 'Anisochromic anisocytosis with some microcytic hypochromic RBC with rouleaux.'
+ 'Anisocytic anisochromic with few target cells.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, few pencil cells, target cells also seen with rouleaux.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC and few target cells.'
+ 'Normocytic normochromic with mild, rouleaux.'
+ 'Anisopoikilocytosis with good number of macrocytes, some thick target cells and few microcytes also seen with marked rouleaux.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC , few  target cells & elongated cells also seen with rouleaux.'
+ 'Anisopoikilocytosis with some microcytes, few elongated cells and macrocytes also seen with rouleaux.'
+ 'Macrocytic normochormic.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, few elongated cells & macrocytes also seen with rouleaux.'
+ 'Anisopoikilocytosis with some microcytes and few elongated cells also seen with rouleaux.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form, some target cells.'
+ 'Anisochromic anisocytosis with few microcytes with rouleaux.'
+ 'Anisochromic anisocytosis with few elongated cells.'
+ 'Mild anisopoikilocytosis microcytic hypochromic red cells, few pencil form, tear drop cells and target cells with mild rouleaux.'
+ 'Dimorphic blood picture with few target cells and elongated cells.'
+ 'Anisochromic anisocytosis including normocyte and macrocyte.'
+ 'Anisochromic anisocytic including normocyte, microcyte, elongated cell and teardrop cell.'
+ 'Normocytic normochromic with increase rouleaux.'
+ 'Moderate anisopoikilocytosis, hypochromic, microcytic red cells, few pencil form cells, target cells.'
+ 'Anisochromic with mild microcytosis.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC with rouleaux.'
+ 'Anisochromic anisocytic including microcytic, normocytic and elongated cell.'
+ 'Anisochromic and anisocytic with rouleaux.'
+ 'Hypochromic microcytic with fair number of elongated cell and target cell.'
+ 'Moderate anisocytosis hypochromic microcytic red cells with marked rouleaux.'
+ 'Anisochromic anisocytic including macrocyte and normocyte.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some target cells, few elongated cells, few fragmented cells, polychromatic cells also seen.'
+ 'Anisochromic anisocytosis including normocyte, target cell, spherocyte and polychromatic macrocyte.'
+ 'Mild anisopoikilocytosis hypochromic microcytic red cells few pencil form with mild rouleaux.'
+ 'Anisopoikilocytosis with some microcytes and rouleaux.'
+ 'Anisochromic anisocytosis'
+ 'Anisochromic anisocytosis with some target cells.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, few elongated cells, target cells also seen with rouleaux.'
+ 'Hypochromic microcytosis with fair number of elongated cells and target cells.'
+ 'Anisochromic anisocytic.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, elongated cells, teardrop cells, few macrocytes also seen with rouleaux.'
+ 'Anisocytic anisochromic including normocyte, macrocyte with increase rouleaux.'
+ 'Normocytic normochromic with few elongated cell.'
+ 'Normocytic normochromic with mild rouleaex.'
+ 'Anisochromic anisocytosis with few target cells.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC & target cells, occasional fragmented cells & elongated cells also seen with rouleaux.'
+ 'Gross anisopoikilocytosis, hypochromic microcytic red blood cells with few pencil form, \ntear drop cells and target cells.'
+ 'Hypochromic microcytosis with some target cells and elongated cells.'
+ 'Anisopoikilocytosis with many target cells, some fragmented cells and few elongated cells also seen with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC and few elongated cells also seen with rouleaux.'
+ 'Hypochromic microcytes.'
+ 'Mild anisopoikilocytosis hypochromic microcytic red cells, few pencil form cells with mild rouleaux.'
+ 'Microcytic hypochromic anaemia, moderate with rouleaux.'
+ 'Normocytic normochromic with fair number of thick target cells and increased rouleaux.'
+ 'Anisopoikilocytosis with some microcytes, few elongated cells, occasional target cells and rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, acanthocytes, occasional target cells with rouleaux.'
+ 'Mild anisopoikilocytosis, hypochromic mcirocytic red cells, occasional pencil form and some target cells.'
+ 'Anisopoikilocytosis with mild microcytosis.'
+ 'Hypochromic microcytic with a fair number of target cells and elongated cells.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, elongated cells, acanthocytes, occasional fragmented cells with rouleaux.'
+ 'Anisopoikilocytosis with many microcytes.'
+ 'Anisopoikilocytosis with some microcytes, few target cells, acanthocytes with rouleaux.'
+ 'Anisopoikilocytosis with some microcytes with rouleaux.'
+ 'Hypochromic microcytic with fair number of nucleated RBC.'
+ 'Anisochromic anisocytic with some microcytes and rouleaux.'
+ 'Normochromic normocyitc.' 'Normochromic normocytic.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, few target cells, acanthocytes, macrocytes occasional fragmented cells also seen.'
+ 'Normochromic normocytic with fair number of schistocyte, crenated cell and few target cell.'
+ 'Normochromic normocytic with few acanthocyte.'
+ 'Mild anisopoikilocytosis hypochromic microcytic red cells with few pencil form cells with realoux.'
+ 'Anisopoikilocytosis with many microcytes, good number of macrocytes, few elongated cells and rouleaux.'
+ 'Normocytic Normochromic with realoux.'
+ 'Anisopoikilocytosis with microcytic hypochromic red blood cells. Some elongated cells, acanthocytes, occasional fragmented cells with rouleaux.'
+ 'Normocytic normochromic'
+ 'Anisochromic anisocytosis including normocytic & macrocytes'
+ 'Gross anisopoikilocytosis, hypochromic microcytic red cells, few pencil form, many target cells, occasional fragmented cells.'
+ 'Normocytic normochromic.\nMild anisopoikilocytosis, hypochromic microcytic red cells, few pencil form.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, elongated cells, macrocytes with rouleaux.'
+ 'Anisocytic anisochromic including normocyte, target cell and few polychromatic macrocyte.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, elongated cells, few target cells also seen.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells,few pencil form & target cells with mild rouleaux.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC and occasional target cells also seen with rouleaux.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, few elongated cells, occasional fragmented cells, macrocytes also seen.'
+ 'Anisochromic anisocytosis with some microcytes and rouleaux.'
+ 'Hypochromic microcytic with fair number of target cell.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, good number of elongated cells, target cells, fragmented cells, few acanthocytes, tear drop cells, pencil cells also seen.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC and few target cells also seen.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, pencil cells, target cells, occasional tear drop cells, fragmented cells, acanthocytes also seen with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some fragmented cells, few elongated cells, nRBC, microsperocytes also seen.'
+ 'Hypochromic microcytosis with a fair number of elongated cells.'
+ 'Anisochromic anisocytic including normocyte, target cell, echynocyte, spherocyte, polychromatic macrocyte, schistocyte and occasional nRBC.'
+ 'Anisochromic and anisocytic with some microcytes with rouleaux.'
+ 'Normochromic normocytic with mild rouleaux.'
+ 'Anisochromic anisocytic including normocyte and macrocyte.'
+ 'Anisochromic and anisocytic with some target cells.'
+ 'Anisopoikilocytosis with many macrocytes.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form and target cells with mild rouleaux.'
+ 'Anisochromic anisocytosis with fair number of target cell.'
+ 'Normocytic normochromic with few target cell.'
+ 'Anisocytic anisochromic including normocyte, macrocyte and spherocyte.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form and target cells.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form, target cells with mild rouleaux.'
+ 'Macrocytic normochromic with few schistocytes and tear drop cell.'
+ 'Anisochromic anisocytosis with some microcytic RBC  with rouleaux.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells,few pencil form, target cells with mild rouleaux.'
+ 'Dimorphic blood picture with some target cells.'
+ 'Mild anisopoikilocytosis hypochromic microcytic red cells few pencil form and some target cells with mild rouleaux.'
+ 'Hypochromic microcytic with plenty target cell.'
+ 'Anisopoikilocytosis with microcytic hypochromic RBC, few elongated cells, occasional target cells also seen with rouleaux.'
+ 'Anisochromia with microcytosis and few target cells and elongated cells.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, some target cells, few elongated cells, teardrop cells also seen.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC and few elongated cells.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some target cells, few elongated cells & macrocytes with rouleaux.'
+ 'Gross anisopoikilocytosis hypochromic microcytic red cells, few pencil form cells, target cells with mild rouleaux.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form, some target cells with mild rouleaux.'
+ 'Gross anisopoikilocytosis hypochromic microcytic red cells, few pencil form and some target cells.'
+ 'Microcytic hypochromic anaemia mild with rouleaux.'
+ 'Normocytic normochromic with fair number of crenated cell.'
+ 'Hypochromic microcytic with fair number of target cells.'
+ 'Anisochromic anisocytosis including normocyte and microcyte.'
+ 'Normocytic normochromic with increased rouleaux'
+ 'Normocytic normochromic with fair number of acanthocyte, echinocyte and schistocyte.'
+ 'Anisochromic anisocytic including normocyte, schistiocyte, acanthocyte, echinocyte and few target cell.'
+ 'Normochromic normocytic with fair number of thick target cell and acanthocyte.'
+ 'Normocytic normochromic with rouleaux'
+ 'Normochromic normocytic with few nRBC.'
+ 'Hypochromic microcytic with fair number of target cell and occasional nRBC.'
+ 'Mild anisopoikilocytosis, hypochromic microcytic red cells and few pencil form.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, elongated cells, target cells few polychromatic cells, also seen rouleaux.'
+ 'Anisopoikilocytosis with some thick target cells & few macrocytes, acanthocytes also seen.'
+ 'Anisochromic anisocytosis including normocyte, spherocyte and polychromatic macrocyte.'
+ 'Anisopoikilocytosis with some macrocytes, few elongated cells, thick target cells & occasional acanthocytes also seen.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, few elongated cells, occasional fragmented and target cells also seen.'
+ 'Anisopoikilocytosis with few microcytes with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, occasional fragmented cells & target cells also seen.'
+ 'Anisochromic and anisocytosis.'
+ 'Normocytic normochromic with fair number of spherocyte, schistocyte and target cell.'
+ 'Hypochromic microcytosis with some elongated and target cells.'
+ 'Hypochromic microcytosis with target cells and few fragmented cells.'
+ 'Hypochromic microcytic with fair number of elongated cells.'
+ 'Anisopoikilocytosis with some microcytes, few elongated cells & macrocytes with rouleaux.'
+ 'Anisopoikilocytosis with some macrocytes, few microcytes also seen with rouleaux.'
+ 'Microcytic hypochromic.'
+ 'Anisopoikilocytosis with some microcytes, few elongated cells , thick target cells & macrocytes and occasional acanthocytes also seen with rouleaux.'
+ 'Anisochromic anisocytosis few target cells with rouleaux.'
+ 'Microcytic hypochromic anaemia.'
+ 'Gross anisopoikilocytosis with mild rouleaux hypochromic microcytic red cells, some target cells few pencil form tear drop cells.'
+ 'Anisochromic anisocytosis with few target cell.'
+ 'Gross anisopoikilocytosis hypochromic microcytic red cells, few pencil form, target cells with rouleaux.'
+ 'Anisopoikilocytosis with many microcytes, few elongated cells & macrocytes also seen with rouleaux.'
+ 'Normocytic normochromic with few target cells.'
+ 'Anisochromic anisocytosis including spherocytes, polychromatic macrocyte, nRBC with marked agglutination.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, few polychromatic cells, occasional fragmented cells also seen with reduced enythrocytes distribution.'
+ 'Anisochromic anisocytosis with some microcytic hypochromic RBC and good number of target cells, few elongated cells, pencil cells also seen with rouleaux.'
+ 'Moderate anisopoikilocytosis hypochromic microcytic red cells, few pencil form and  target cells.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, occasional acanthocytes also seen with rouleaux.'
+ 'Normocytic normochromic with some target cells.'
+ 'Anisopoikilocytosis with some microcytes, few elongated cells and macrocytes with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, few target cells with rouleaux.'
+ 'Anisopoikilocytosis with some microcytes, macrocytes and rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some macrocytes, few target cells with rouleaux.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC.'
+ 'Anisopoikilocytosis with some microcytic hypochromic RBC, few elongated cells, occasional acanthocytes also seen with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, target cells, few fragmented cells, teardrop cells also seen with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, some elongated cells, acanthocytes, pencil cells, few macrocytes with rouleaux.'
+ 'Anisopoikilocytosis with some microcytes, few elongated cells and macrocytes, occasional thick target cells also seen with rouleaux.'
+ 'Anisopoikilocytosis with many microcytic hypochromic RBC, few elongated cells, target cells, occasional polychromatic cells with Rouleaux.']"
+1,RBC :,['(+)' 'A few' '(++) /HPF' 'Occasional' 'No RBC' 'Numerous']
+1,Reaction,['Alkaline']
+1,Reaction(PH),['Not Done' 'Alkaline']
+1,Rh (D),['Positive (+ve)' 'Negative (-ve)' 'Positve']
+1,Rh-Antibody Titre,['No Rh-Antibody detected' 'No detected' 'Not detected']
+1,Sedimen :,['Present']
+1,Sediment,['Trace' '(++)' '(+)' '(+++)' 'Present']
+1,Sediment :,['Present']
+1,Site,['Left fore arm' 'Right fore arm']
+1,Sp. Gravity,['Not Done']
+1,Specimen :,"['CSF for Cytology' 'Ascitic fluid for cytology.' 'Pleural fluid'
+ 'Ascitic fluid' 'Pleural fluid for cytology.']"
+1,Sperm clumping,['A few']
+1,Sperm viability,['Normozoospermia']
+1,Spermatozoa,['(+)' 'Few' '(++)']
+1,Starch,['Trace' 'Few' '(+)' '(++)' 'A Few' '(+++)']
+1,Stercobilinogen,['few' 'Plenty' '(+)']
+1,Sugar,['++' 'Trace' '(+)' '(+++)' '(++)' '(++++)' '+++' '++++' 'Not Done' '+']
+1,Total count Of WBC :,['No Cell Count.' 'No WBC']
+1,Trichomonas Vaginalis,['Few' '(+)']
+1,Triple Phos,['(+)' '(+++)' 'Few' 'A few' '(++)']
+1,Troponin I,['-+']
+1,Unit :,['Bag']
+1,Uric Acid,['Few' '(++)' '(+)' 'A few']
+1,Urobilinogen,['Not Done']
+1,Vegetable Cells,['(+)' 'Few' '(+++)' '(++)' 'A Few' 'Very few']
+1,Volume,['Sufficient']
+1,WBC,"['Mature, normal in count and distribution.'
+ 'Mature normal in count with increased distribution of neutrophil according to age.'
+ 'Mature with the distribution shown.' 'Mature with above distribution.'
+ 'Mature with normal in count and distribution.'
+ 'Mature, normal in count with increased distribution of neutrophil.'
+ 'Mature with normal count and distribution.'
+ 'Mature with increased total count.'
+ 'Mature with fair number of dysplastic monocyte.'
+ 'Mature with normal distribution and count.'
+ 'Mature normal in count and distribution.'
+ 'Mature increased total count with increased distribution of neutrophil.'
+ 'Mature with fair number of reactive lymphocytes.'
+ 'Mature with increase distribution of neutrophil.'
+ 'Mature with increase total count and increase distribution of neutrophil.'
+ 'Mature with some reactive lymphocytes.'
+ 'Mature with increase distribution of eosinophil.'
+ 'Mature with fair number of reactive lymphocyte.'
+ 'Mature with increased distribution of neutrophil.'
+ 'Mature, normal in count and distribution according to age.'
+ 'Mature with few band from no toxic granules.'
+ 'Mature with features of neutrophil leucocytosis.'
+ 'Marked neutrophil leucocytosis with shift to left.'
+ 'Mature with above normal in count and distribution.'
+ 'Mature with few bed form no toxic granules.'
+ 'Mature with fair number of neutrophil having toxic granules.'
+ 'Mature, normal in count with increased distribution of eosinophil.'
+ 'Mature normal in count with increased distribution of neutrophil.'
+ 'Mainly mature with fair number of reactive lymphocyte & atypical cell.'
+ 'Mature with the above distribution with few reactive lymphocytes.'
+ 'Mature, increased total count with increased distribution of neutrophil.'
+ 'Mature with features of mild neutrophil leucocytosis.'
+ 'Mature with increased distribution of eosinophil.'
+ 'Mature with average normal distribution.'
+ 'Mature with increased distribution eosinophil.'
+ 'Mainly mature with occasionaly myelocyte.'
+ 'Mature but decreased distribution of neutrophil.'
+ 'Mature but decreased in number.'
+ 'Mature increased in total count and increased distribution of neutrophil according to age.'
+ 'Mature with above distribution and some reactive lymphocytes.'
+ 'Mature, normal in count with increased distribution of lymphocyte.'
+ 'Mature normal in count and increased distribution of neutrophil.'
+ 'Mature with increased distribution of neutrophil having hypersegmented nucleus.'
+ 'Mature, increased total count and increased distribution of neutrophil.'
+ 'Mature with few hypersegmented neutrophil.'
+ 'Mature increased in total count with increased distribution of neutrophil.'
+ 'Mature increased total count with increased distribution of neutrophil according to age.'
+ 'Mature, normal in count and increased distribution of neutrophil.'
+ 'Mature with above distribution and count.'
+ 'Mature with fair number of neutrophil having vacoule and dysplastic changes.'
+ 'Mature with normal in count with increased distribution of neutrophil.'
+ 'Mature, increase in count and distribution of neutrophil.'
+ 'Mature increase total count and normal in distribution according to age.'
+ 'Mature with few reactive lymphocytes.'
+ 'Mature with increased distribution of neutrophil having toxic granules.'
+ 'Mature with features of neutrophil leucocytosis, mild.'
+ 'Mature with the above distribution.'
+ 'Mature with distribution shown, some reactive lymphocytes.'
+ 'Mature normal in count with increased distribution of eosinophil.'
+ 'Mature normal in count and increased distribution of neutrophil according to age.'
+ 'Mature, normal in count and increased distribution of lymphocytes according to age.'
+ 'Shows left shift maturation, majority of cells are lymphoblast.'
+ 'Mature with fair number of hypersegmented neutrophil.'
+ 'Mature increased total count and normal in distribution.'
+ 'Mature with increased eosinophil count.'
+ 'Mature normal in count with increased distribution of lymphocytes.'
+ 'Mature with increased total count and neutrophils.'
+ 'Mature with features of mild neutrophil leucocytosis,some neutrophil show toxic granules.'
+ 'Mainly mature with few myelocyte.'
+ 'Mature with above distribution of count.'
+ 'Markedly increased in number with left shift maturation, most of the cells are lymphoblast.'
+ 'Mature with features of neutrophil leucocytosis with some neutrophil shows toxic granules.'
+ 'Mature with the above distrubution.'
+ 'Mature, normal in count & increased distribution of lymphocytes.'
+ 'Mature with features of neutrophil leukocytosis, mild peripheral.'
+ 'Mature with neutrophil leucocytosis.'
+ 'Mature with features of neutrophil leukocytosis, mild'
+ 'Mature increased in total count with increased distribution of neutrophil according to age.'
+ '(+)' 'Mature normal in count and distribution according to age.'
+ 'Mainly mature with fair number of myelocyte.'
+ 'Matur with some reactive lymphocytes.'
+ 'Mature with increase distribution of neutorphil & eosinophil.'
+ 'Mainly mature with few myelocyte and dysplastic monocyte.'
+ 'Mature increased total count with increased distribution. of neutrophil.'
+ 'Mature normal in count with increase distribution of neutrophil.'
+ 'Mature with  distribution.'
+ 'Mature normal in count & distribution according to age.'
+ 'Mature with normal count and distribution'
+ 'Mature with the distrubution shown.'
+ 'Mature increaed total count with increased distribution of neutrophil.'
+ 'Mature with the average normal distribution.'
+ 'Mature, with reduced total count'
+ 'Mature with the distribution shown with some reactive lymphocytes.'
+ 'Mature with few band form no toxic granules.'
+ 'Mature normal in count gross shift to the left some blasts are also seen.'
+ 'Mature with increase distribution of neutrophil having toxic granules.'
+ 'Mature lower limit normal in count and increased distribution of lymphocytes according to age.'
+ 'Mature with nomal in count and distribution.'
+ 'Mature increase total count with increase distribution of neutrophil.'
+ 'Mature with above distribution with some reactive lymphocytes.'
+ 'Mature with most of the neutrophil having toxic granules.'
+ 'Mature with increased WBC and neutrophils.'
+ 'Mature with few atypical mononuclear cell.'
+ 'Mature with the distribution shown some reactive lymphocytes.'
+ 'Mature with low count.'
+ 'Mature with decreased distribution of neutrophil.'
+ 'Mature with normal in total count and distribution.'
+ 'Matur, normal in count and distribution.'
+ 'Increase in number with fair number of myelocyte and dysplastic monocyte.'
+ 'Mature normal in total count and distribution.' 'Mature.'
+ 'Mature normal in count and increased distribution of eosinophil.'
+ 'Mature normal in count with increased distribution of number.'
+ 'Marked neutrophil leucocytosis with mild shift to left.'
+ 'Mature with increased distribution of lymphocyte.'
+ 'Mature increased in total count with distribution of neutrophil.'
+ 'Mature with the normal distribution.'
+ 'Mature with average distribution.'
+ 'Mature with average distribution with some reactive lymphocytes.'
+ 'Mature with normal distribution.'
+ 'Mature but decrease distribution of lymphocyte.'
+ 'Mature with the distribution.' 'Mainly mature with few myolocyte.'
+ 'Mature increased in count and normal in distribution.'
+ 'Mainly mature with few myelocyte. Hypersegmented neutrophil and basophil are also noted.'
+ 'Mature with feature of neutrophil leucocytosis.'
+ 'Mature, lower limit normal in count and distribution.']"
+1,Wet Film,"['Hyphae of fungi intertwined among epithelial cells are detected.'
+ 'Hyphae of fungi intertwined among epithelial cells are seen.']"
+1,Yeast,['(+)' '(++)' 'Few' 'Trace' '(+++)' 'Plenty']
+1,Yeasts,['Trace' '(+)' '(+++)' '(++)']
+2,Acetone,['Absent']
+2,Bence Jones Protein,['Absent']
+2,Blood,['Absent']
+2,Ketone Bodies,['Absent']
+2,Ketones,['Absent']
+2,Ketones body,['Absent']
+2,Leukocyte Esterase,['Absent']
+2,Nitrate,['Absent']
+2,Reducing Substance,['Absent']
+2,Sedimen :,['Absent']
+2,Sediment :,['Absent']
+2,Stool R/S,['Absent']
+2,Urobilinogen,['Absent']
+3,4.  Syphilis (VDRL),['Non Reactive' 'Non reactive' 'Non-Reactive' 'Non-reactive']
+3,4. Syphilis (VDRL),['Non Reactive' 'Non-Reactive']
+3,Anti-HCV,['Non-Reactive']
+3,HBe Ag,['Reactive']
+3,HBs Ag,['Non-reactive']
+3,Syphilis (VDRL),['Non Reactive']
+3,VDRL,['Non-Reactive' 'Non Reactive' 'Non reactive']
+3,VDRL Qualitative,['Non-Reactive' 'Reactive']
+4,1.  HBsAg,['Negative']
+4,1. HBsAg,['Negative']
+4,2.  Anti HCV,['Negative']
+4,2. Anti HCV,['Negative']
+4,3.  HIV I & II,['Negative' '\\Negative']
+4,3. HIV I & II,['Negative' '\\Negative']
+4,4.  Syphilis (VDRL),['Negative']
+4,5.  Malarial Parasite(ICT),['Negative']
+4,5. Malarial Parasite (ICT),['Negative']
+4,ANA,['Negative']
+4,Anti HCV,['Negative']
+4,Anti SSA/Ro Antibody,['Negative']
+4,Anti-HAV IgM,['Negative']
+4,Anti-HBc IgM,['Negative']
+4,Anti-HBc Total,['Negative']
+4,Anti-HBe,['Negative']
+4,Anti-HCV,['Negative']
+4,Anti-HEV IgM (ELISA),['Negative']
+4,CFT-Filaria,['Negative']
+4,Chikungunya Antibody IgG,['Negative']
+4,Chikungunya Antibody IgM,['Negative']
+4,Coomb's Test (Direct),['Negative']
+4,Coomb's Test (Indirect),['Negative']
+4,Cytomegalo Virus IgM,['Negative']
+4,Dengue Ag NS1 (ICT),['Negative']
+4,Dengue Antibody IgG (ICT),['Negative' 'Negative.']
+4,Dengue Antibody IgG ICT,['Negative']
+4,Dengue Antibody IgM (ICT),['Negative']
+4,Dengue Antibody IgM ICT,['Negative']
+4,Direct,['Negative']
+4,Direct Coomb's test,['Negative']
+4,Filaria Ab-IgG,['Negative']
+4,Filaria Ab-IgM,['Negative']
+4,Filaria Ag,['Negative']
+4,HBc Total,['Negative']
+4,HBe Ag,['Negative']
+4,HBs Ab,['Negative']
+4,HBs Ag,['Negative']
+4,HBsAg,['Negative']
+4,HIV Ab I&II,['Negative']
+4,HIV I & II,['Negative']
+4,HIV(1+2)-Confirmetory,['Negative']
+4,HSV 1 & 2 IgG,['Negative']
+4,Herpes Simplex Virus (HSV) I & II IgM,['Negative']
+4,Herpes Simplex Virus (II) IgG,['Negative']
+4,Indirect,['Negative']
+4,Indirect Coomb's test,['Negative']
+4,Interpretation,['Negative']
+4,Kala Azar Ab,['Negative']
+4,Ketone Bodies,['Negative']
+4,Leptospiral ab IgG,['Negative']
+4,Leptospiral ab IgM,['Negative']
+4,Malaria Ag (ICT),['Negative']
+4,Occult Blood Test,['Negative']
+4,Occult Blood Test (OBT),['Negative']
+4,Pregnancy Test,['Negative']
+4,Rh (D),['Negative']
+4,Rh Type :,['Negative']
+4,Rh-Antibody Titre,['Negative']
+4,Rose Waaler Test,['Negative']
+4,Rubella IgM,['Negative']
+4,Serum Chlamydia Trachomatis IgG,['Negative']
+4,TPHA,['Negative']
+4,Tissue Transglutaminase -IgA,['Negative']
+4,Toxoplasma IgM,['Negative']
+5,Appearance,['Clear']
+5,Appearance :,['Clear']
+5,Colour :,['Crystal clear' 'Crystal Clear' 'Clear']
+6,1.  HBsAg,['Positive']
+6,AFB,['Positive (++)' 'Positive (+)' 'Positive (++).' 'Positive (+++)']
+6,ANA,['Positive']
+6,Anti-HAV IgM,['Positive']
+6,Anti-HBc Total,['Positive']
+6,Anti-HBe,['Positive']
+6,Anti-HCV,['Positive']
+6,Anti-HEV IgM (ELISA),['Positive']
+6,Dengue Ag NS1 (ICT),['Positive' 'Weakly Positive']
+6,Dengue Antibody IgG (ICT),['Positive' 'Weakly Positive']
+6,Dengue Antibody IgG ICT,['Positive']
+6,Dengue Antibody IgM (ICT),['Positive' 'Weakly positive']
+6,Dengue Antibody IgM ICT,['Positive']
+6,Direct,['Positive']
+6,HBs Ag,['Positive']
+6,HSV 1 & 2 IgG,['Positive']
+6,HSV 1 & 2 IgM,['Positive']
+6,Herpes Simplex Virus (HSV) I & II IgG,['Positive']
+6,Herpes Simplex Virus (I) IgG,['Positive']
+6,Indirect,['Positive']
+6,Interpretation,['Positive']
+6,Occult Blood Test (OBT),['Positive']
+6,Pregnancy Test,['Positive']
+6,Rh (D),['Positive']
+6,Rh Type :,['Positive' 'positive']
+6,Serum Chlamydia Trachomatis IgG,['Positive']
+6,TPHA,['Positive']
+7,Colour,['Straw' 'STRAW' 'Deep Straw' 'Dark straw' 'Deep straw' 'Dark Straw']
+7,Colour :,['Straw']
+8,Bilirubin,['Normal']
+8,PGx of Clopidogrel,['Intermediate metabolizer\n\n-----------------------------------\nNormal metabolizer']
+8,Platelets,"['Normal.' 'Normal' 'Borderline normal.' 'Normal in counr and morphology.'
+ 'Marginally normal.' 'Normal in ocunt and morphology.']"
+8,Urobilinogen,['Normal' 'Normal.']
+8,Viscosity,['Normal']
+9,Reaction,['Acidic']
+9,Reaction(PH),['Acidic']

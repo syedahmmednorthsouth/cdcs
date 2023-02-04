@@ -1,0 +1,82 @@
+
+----------------------------------------------------------------
+Presence-finding tests
+
+Negative :	 ,""
+
+Negative, Positive:	"HBc Total",	"Anti-HBc Total", "Anti-HAV IgM", "Anti-HBc Total","HIV(1+2)-Confirmetory","HBsAg",""Anti HCV", "HIV I & II","1. HBsAg","2. Anti HCV","3. HIV I & II","5. Malarial Parasite (ICT)","Filaria Ab-IgM","Filaria Ag","Direct","Indirect","Herpes Simplex Virus (HSV) I & II IgG","2.  Anti HCV"
+
+
+with not-found: "Malarial Parasite(ICT)"
+
+weakly-pos: "Dengue Ag NS1 (ICT)"
+
+['Negative' 'Positive' 'Weakly Positive' 'Negative.']:"Dengue Antibody IgG (ICT)","Dengue Antibody IgM (ICT)","Dengue Ag NS1 (ICT)"
+["mod pos"]: "CFT-Filaria","AFB"
+------------------------------------------
+Blood Type
+
+Rh Type : 	"Rh Type :"
+
+"Blood Group :","Blood Group :","Blood Group :","Blood Group: ABO"
+
+"Rh (D)"
+
+----------------------
+Pathogenesis tests :
+
+"Syphilis (VDRL)","	4. Syphilis (VDRL)"," HIV I & II","	VDRL","	VDRL Qualitative","4.  Syphilis (VDRL)","VDRL"
+----------------------------------------------------------
+color:
+
+"Colour :","Appearance :","Physical examination :","Colour :","Appearance :","Colour :","Appearance :","Appearance","Colour","Color",
+
+['Brown' 'Yellowish' 'Greenish' 'Yellow' 'Whitish' 'Redish' 'Blackish''Reddish' 'Whitiesh']": 
+
+
+-----------------------------------------------------------------------------------------------
+
+'Compatible' 'Incompatible' 'InCompatible(Minor)' 'Compitable'
+ 'compatible' 'Comaptible' 'InCompatible'] :  "Cross Match with donor", "Cross Match with donor :","Cross Match with donor :","Cross Match with donor :"
+---------------------------------------------------------------------------------------------- 
+ 
+present, absent, nill: "Acetone","Sedimen :","Appearance :","Bence Jones Protein","Sediment :", "Leukocyte Esterase"
+
+normal: "Viscosity","Urobilinogen","Bilirubin"
+---------------------------------------------------------------------------
+ 
+['No Rh-Antibody detected' 'Negative' 'No detected' 'Not detected']
+--------------------------------------------------------------------------------------
+S,I: "Cefixime","Ceftriaxone","Ciprofloxacin","	Gentamicin","Netilmicin"
+
+---------------------------------------
+Urine Test
+++++++ , trace(	['Nil' 'N/S' '(+)' '(++)' 'NIl' 'Trace' '(+++)' 'nil' 'N/s' '(++++)']):  "Albumin","Gastric lavage for Biochemistry",
+"['Nil' '(++)' '(+)' '(+++)' 'Absent' '+++' 'Trace' '+' 'Not done' '++']":"Blood","Fat Globules","Albumin","sugar","Yeast","Spermatozoa","Vegetable Cells","Starch","Muscle Fibres","Fat Globules","Yeasts","Ketones body"
+    
+ ['(+)' '(++)' 'Nil' 'Trace' '(+++)' '+' '(++++)' '++++' '++' 'Not Done','+++']: "Protein" 
+ 
+ 
+ ['N/S' '(+++)' 'Nil' '(+)' 'NIl' '(++)' 'Trace' '(++++)' 'N/s']:	"Corresponding urine sugar"
+ 
+['N/S' 'Nil' '(+++)' '(++)' '(+)' 'N/s' 'Trace']: "Corresponding Urine Suger", "Blood glucose level"
+
+
+urine test- 	"Hyaline","Granular","Cellular","Bacteria"
+
+
+"Epithelial cells",	
+
+
+with occational = "Pus cells", "Gram negative extracellur diplococci","Gram Positive Cocci","Gram Negative Bacilli"
+
+==================================================================================
+"Default","Gram Stain","Pus for Gram stain"
+===================================================================
+
+"Donor information :","Blood Component :"
+
+
+========================================
+
+"Donor Name :",""
